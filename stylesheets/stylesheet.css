@@ -103,7 +103,8 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  /*color: #007edf;*/
+  color: #D7DF01;
   text-shadow: none;
 
   transition: color 0.5s ease;
